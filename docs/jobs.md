@@ -10,11 +10,11 @@
 | Location | JUD. MUREŞ, MUN. SIGHIŞOARA, STR. NICOLAE TITULESCU, NR.3A |
 | Website | [https://hochland.ro](https://hochland.ro) |
 | Careers | [https://hochland.ro/cariere/](https://hochland.ro/cariere/) |
-| Last Scraped | 2026-10-04 |
+| Last Scraped | 2026-10-05 |
 
 ## Current Job Listings (8)
 
-_Generated: 2026-10-04T11:27:38.698Z_
+_Generated: 2026-10-05T12:53:46.170Z_
 
 ### Specialist IT
 
@@ -23,7 +23,7 @@ _Generated: 2026-10-04T11:27:38.698Z_
 - **Location:** Sovata
 - **Status:** scraped
 
-### Specialist R&D Junior
+### Specialist Cercetare si Dezvoltare Junior (R&D)
 
 - **URL:** [https://hochland.ro/cariere/specialist-rd-junior/](https://hochland.ro/cariere/specialist-rd-junior/)
 - **Work Mode:** on-site
