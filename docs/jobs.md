@@ -10,11 +10,18 @@
 | Location | JUD. MUREŞ, MUN. SIGHIŞOARA, STR. NICOLAE TITULESCU, NR.3A |
 | Website | [https://hochland.ro](https://hochland.ro) |
 | Careers | [https://hochland.ro/cariere/](https://hochland.ro/cariere/) |
-| Last Scraped | 2026-10-05 |
+| Last Scraped | 2026-10-06 |
 
-## Current Job Listings (8)
+## Current Job Listings (10)
 
-_Generated: 2026-10-05T12:53:46.170Z_
+_Generated: 2026-10-06T12:21:11.295Z_
+
+### Contabil
+
+- **URL:** [https://hochland.ro/cariere/contabil/](https://hochland.ro/cariere/contabil/)
+- **Work Mode:** on-site
+- **Location:** Sighisoara
+- **Status:** scraped
 
 ### Specialist IT
 
@@ -26,6 +33,13 @@ _Generated: 2026-10-05T12:53:46.170Z_
 ### Specialist Cercetare si Dezvoltare Junior (R&D)
 
 - **URL:** [https://hochland.ro/cariere/specialist-rd-junior/](https://hochland.ro/cariere/specialist-rd-junior/)
+- **Work Mode:** on-site
+- **Location:** Sovata
+- **Status:** scraped
+
+### Muncitor necalificat- productie
+
+- **URL:** [https://hochland.ro/cariere/muncitor-necalificat-productie/](https://hochland.ro/cariere/muncitor-necalificat-productie/)
 - **Work Mode:** on-site
 - **Location:** Sovata
 - **Status:** scraped
