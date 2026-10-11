@@ -10,11 +10,11 @@
 | Location | JUD. MUREŞ, MUN. SIGHIŞOARA, STR. NICOLAE TITULESCU, NR.3A |
 | Website | [https://hochland.ro](https://hochland.ro) |
 | Careers | [https://hochland.ro/cariere/](https://hochland.ro/cariere/) |
-| Last Scraped | 2026-10-10 |
+| Last Scraped | 2026-10-11 |
 
 ## Current Job Listings (10)
 
-_Generated: 2026-10-10T11:30:48.914Z_
+_Generated: 2026-10-11T11:44:21.439Z_
 
 ### Contabil
 
