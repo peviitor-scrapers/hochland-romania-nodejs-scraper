@@ -10,11 +10,18 @@
 | Location | JUD. MUREŞ, MUN. SIGHIŞOARA, STR. NICOLAE TITULESCU, NR.3A |
 | Website | [https://hochland.ro](https://hochland.ro) |
 | Careers | [https://hochland.ro/cariere/](https://hochland.ro/cariere/) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
-## Current Job Listings (9)
+## Current Job Listings (10)
 
-_Generated: 2026-10-27T11:12:13.398Z_
+_Generated: 2026-10-28T11:46:55.211Z_
+
+### Junior Trade Marketing Specialist
+
+- **URL:** [https://hochland.ro/cariere/junior-trade-marketing-specialist/](https://hochland.ro/cariere/junior-trade-marketing-specialist/)
+- **Work Mode:** on-site
+- **Location:** Bucuresti
+- **Status:** scraped
 
 ### Contabil
 
