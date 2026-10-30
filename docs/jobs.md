@@ -10,11 +10,18 @@
 | Location | JUD. MUREŞ, MUN. SIGHIŞOARA, STR. NICOLAE TITULESCU, NR.3A |
 | Website | [https://hochland.ro](https://hochland.ro) |
 | Careers | [https://hochland.ro/cariere/](https://hochland.ro/cariere/) |
-| Last Scraped | 2026-10-29 |
+| Last Scraped | 2026-10-30 |
 
-## Current Job Listings (11)
+## Current Job Listings (12)
 
-_Generated: 2026-10-29T11:54:26.424Z_
+_Generated: 2026-10-30T11:48:28.269Z_
+
+### Mecanic
+
+- **URL:** [https://hochland.ro/cariere/mecanic/](https://hochland.ro/cariere/mecanic/)
+- **Work Mode:** on-site
+- **Location:** Sighisoara
+- **Status:** scraped
 
 ### Tehnolog Senior R&D
 
