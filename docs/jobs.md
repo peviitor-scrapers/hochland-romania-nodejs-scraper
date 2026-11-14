@@ -10,11 +10,11 @@
 | Location | JUD. MUREŞ, MUN. SIGHIŞOARA, STR. NICOLAE TITULESCU, NR.3A |
 | Website | [https://hochland.ro](https://hochland.ro) |
 | Careers | [https://hochland.ro/cariere/](https://hochland.ro/cariere/) |
-| Last Scraped | 2026-11-13 |
+| Last Scraped | 2026-11-14 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-11-13T13:33:46.892Z_
+_Generated: 2026-11-14T12:39:24.965Z_
 
 ### Mecanic
 
