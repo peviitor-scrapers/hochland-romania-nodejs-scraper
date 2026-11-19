@@ -10,11 +10,11 @@
 | Location | JUD. MUREŞ, MUN. SIGHIŞOARA, STR. NICOLAE TITULESCU, NR.3A |
 | Website | [https://hochland.ro](https://hochland.ro) |
 | Careers | [https://hochland.ro/cariere/](https://hochland.ro/cariere/) |
-| Last Scraped | 2026-11-18 |
+| Last Scraped | 2026-11-19 |
 
-## Current Job Listings (12)
+## Current Job Listings (11)
 
-_Generated: 2026-11-18T14:43:52.842Z_
+_Generated: 2026-11-19T14:50:27.714Z_
 
 ### Mecanic
 
@@ -28,13 +28,6 @@ _Generated: 2026-11-18T14:43:52.842Z_
 - **URL:** [https://hochland.ro/cariere/tehnolog-senior-rd/](https://hochland.ro/cariere/tehnolog-senior-rd/)
 - **Work Mode:** on-site
 - **Location:** Sighisoara
-- **Status:** scraped
-
-### Junior Trade Marketing Specialist
-
-- **URL:** [https://hochland.ro/cariere/junior-trade-marketing-specialist/](https://hochland.ro/cariere/junior-trade-marketing-specialist/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti
 - **Status:** scraped
 
 ### Contabil
