@@ -10,11 +10,11 @@
 | Location | JUD. MUREŞ, MUN. SIGHIŞOARA, STR. NICOLAE TITULESCU, NR.3A |
 | Website | [https://hochland.ro](https://hochland.ro) |
 | Careers | [https://hochland.ro/cariere/](https://hochland.ro/cariere/) |
-| Last Scraped | 2026-11-25 |
+| Last Scraped | 2026-11-26 |
 
 ## Current Job Listings (12)
 
-_Generated: 2026-11-25T16:22:10.610Z_
+_Generated: 2026-11-26T15:56:27.036Z_
 
 ### Reprezentant vanzari (contract 2 ani)
 
